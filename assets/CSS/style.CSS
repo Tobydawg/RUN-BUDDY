@@ -314,5 +314,15 @@
   color: #faf6dd;
 }
 
+
+.page-title {
+  color:#fce138;
+  display: inline-block;
+  border-bottom: 4px;
+  padding: 0 80px 15px 80px;
+  font-weight: normal;
+  font-size: 42px;
+  font-style: italic;
+
 /* REACH OUT STYLES END */
       
